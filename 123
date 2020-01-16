@@ -1,3 +1,9 @@
-{name: "網頁設計",teacher:"張青桃",category: 1,week:1,sweet: 5,cool: 5,day: "2-EFG/MA221",credits: "3-0-3",introduce: "網頁設計就是使用標識語言（markup language)，經過一系列概念化，設計，編排，和執行的過程後將電子格式的訊息透過Internet網際網路傳輸，最後透過瀏覽器產生GUI圖形界面展示於客戶端。"},
-      {name: "多媒體設計",teacher:"張青桃",category: 1,week:0,sweet: 5,cool: 5,day: "1-EFG/MA221",credits: "3-0-3",introduce: "一、數位遊戲：範圍包括線上遊戲、網頁遊戲、手機遊戲、電視平台遊戲與體感遊戲開發、體感互動介面設計、遊戲商城網站技術、遊戲人工智慧。二、數位影音：追求數位媒體藝術企劃表現與製作之探究，包括微電影製作、3D動畫、音樂製作、影音特效、錄影藝術、影音教材開發。"},
-      {name: "資訊管理導論",teacher:"莊煥銘",category: 0,week:4,sweet: 5,cool: 5,day: "	5-BCD/MA225",credits: "3-0-3",introduce: "資料是從外界收集來的資訊，並且未經整理。接著將資料處理過後就會成為資訊。例如超商的收銀檯掃描代表每項產品的條碼，輸入百萬筆資料後，經由電腦分析後就成為有意義的資訊。"}
+{ "select": "11","days":[{"week":"mon","name":"星期一","value":""},{"week":"tues","name":"星期二","value":""},{"week":"wed","name":"星期三","value":""},{"week":"thir","name":"星期四","value":""},{"week":"fri","name":"星期五","value":""}],"categorys":[
+      {"name":"必修","value":""},{"name":"選修","value":""},{"name":"通識","value":""}
+    ],
+    "classes":[
+      {"name": "網頁設計","teacher":"張青桃","category": 1,"week":1,"sweet": 5,"cool": 5,"day": "2-EFG/MA221","credits": "3-0-3","introduce": "網頁設計就是使用標識語言（markup language)，經過一系列概念化，設計，編排，和執行的過程後將電子格式的訊息透過Internet網際網路傳輸，最後透過瀏覽器產生GUI圖形界面展示於客戶端。"},
+      {"name": "多媒體設計","teacher":"張青桃","category": 1,"week":0,"sweet": 5,"cool": 5,"day": "1-EFG/MA221","credits": "3-0-3","introduce": "一、數位遊戲：範圍包括線上遊戲、網頁遊戲、手機遊戲、電視平台遊戲與體感遊戲開發、體感互動介面設計、遊戲商城網站技術、遊戲人工智慧。二、數位影音：追求數位媒體藝術企劃表現與製作之探究，包括微電影製作、3D動畫、音樂製作、影音特效、錄影藝術、影音教材開發。"},
+      {"name": "資訊管理導論","teacher":"莊煥銘","category": 0,"week":4,"sweet": 5,"cool": 5,"day": "\t5-BCD/MA225","credits": "3-0-3","introduce": "資料是從外界收集來的資訊，並且未經整理。接著將資料處理過後就會成為資訊。例如超商的收銀檯掃描代表每項產品的條碼，輸入百萬筆資料後，經由電腦分析後就成為有意義的資訊。"}
+    ]
+  }
